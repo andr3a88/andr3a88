@@ -27,8 +27,9 @@ I love exploring **SwiftUI, Combine, Swift Concurrency** and applying best pract
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> [Combine](https://developer.apple.com/documentation/combine)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> [Swift Concurrency](https://docs.swift.org/swift-book/ReferenceManual/Concurrency.html)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="20" height="20"/> [Swift Testing (XCTest)](https://developer.apple.com/documentation/xctest)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-plain.svg" width="20" height="20"/> [CoreData](https://developer.apple.com/documentation/coredata)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="20" height="20"/> [CoreData](https://developer.apple.com/documentation/coredata)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bluetooth/bluetooth-original.svg" width="20" height="20"/> [CoreBluetooth](https://developer.apple.com/documentation/corebluetooth)
+
 
 ---
 
